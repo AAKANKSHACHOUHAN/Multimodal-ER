@@ -14,4 +14,3 @@
 
 "Best Models" directory contains the files of the best models. More specifically, it contains files of the best models created using feature set and both classifiers (SVM, MLP).
 
-"Saved_Models" directory contains the saved model files of both classifiers (SVM and MLP), using the Custom feature set along with the Complete_Clean dataset. 
